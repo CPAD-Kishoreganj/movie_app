@@ -196,7 +196,7 @@ class MovieList {
       "Released": "17 Apr 2011",
       "Runtime": "56 min",
       "Genre": "Adventure, Drama, Fantasy",
-      "Director": "N/A",
+      "Director": "Habib",
       "Writer": "David Benioff, D.B. Weiss",
       "Actors": "Peter Dinklage, Lena Headey, Emilia Clarke, Kit Harington",
       "Plot":

@@ -32,6 +32,12 @@ class MovieDetails extends StatelessWidget {
               ),
             ),
           ),
+          Text(
+            "Director: ${movie.director}",
+            style: TextStyle(
+              fontSize: 23,
+            ),
+          )
         ],
       ),
     );
